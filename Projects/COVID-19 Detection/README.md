@@ -33,7 +33,7 @@
 	* We opened the files on weka and applied different image filters to it and tried different simple classification algorithms on it.
 	* Observations:
 		* The results came out better than expected but the problem of False Negatives still persisted. With more experimentation involving cost-sensitive classification and better classifier options however, we can clear this problem.
-		* Weka is more of an experimentation tool that works best with smaller datasets. It can say how good a classification can be, but replciation of results into the CNN model will be a challenge.
+		* Weka is more of an experimentation tool that works best with smaller datasets. It can say how good a classification can be, but replication of results into the CNN model will be a challenge.
 		* weka provides limited number of image filters and even details of these filters are limited. We should explore them separately in detail and learn more about them to actually make sense of it.
 		* All of this is being done without expert consultation from someone in the medical industry, so any results however effective can be deemed void if not feasible according to experts.
 
